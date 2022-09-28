@@ -1,0 +1,3 @@
+"name:Имя Отчество Фамилия, email:name@mail.su, age:27"
+"name:Кто ПридумалPerl иЗачем, email:iHatePerl@dont.useIt, age:20"
+"name:Зачем Нужен Perl, email:phpIsBetter@dont.usePerl, age:30"
